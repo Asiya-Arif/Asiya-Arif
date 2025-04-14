@@ -31,35 +31,33 @@
 
 <p align="center">
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=black&color=gradient&logoWidth=25&edge-radius=25" />
+    <img src="https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=black&color=gradient&logoWidth=35&edge-radius=25" />
   </a>
   <a href="https://jupyter.org/">
-    <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&color=gradient&logoWidth=25&edge-radius=25" />
+    <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&color=gradient&logoWidth=35&edge-radius=25" />
   </a>
   <a href="https://pandas.pydata.org/">
-    <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&color=gradient&logoWidth=25&edge-radius=25" />
+    <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&color=gradient&logoWidth=35&edge-radius=25" />
   </a>
   <a href="https://numpy.org/">
-    <img src="https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white&color=gradient&logoWidth=25&edge-radius=25" />
+    <img src="https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white&color=gradient&logoWidth=35&edge-radius=25" />
   </a>
   <a href="https://matplotlib.org/">
-    <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white&color=gradient&logoWidth=25&edge-radius=25" />
+    <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white&color=gradient&logoWidth=35&edge-radius=25" />
   </a>
   <a href="https://seaborn.pydata.org/">
-    <img src="https://img.shields.io/badge/-Seaborn-4B8BBE?style=for-the-badge&logo=seaborn&logoColor=white&color=gradient&logoWidth=25&edge-radius=25" />
+    <img src="https://img.shields.io/badge/-Seaborn-4B8BBE?style=for-the-badge&logo=seaborn&logoColor=white&color=gradient&logoWidth=35&edge-radius=25" />
   </a>
   <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=gradient&logoWidth=25&edge-radius=25" />
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=gradient&logoWidth=35&edge-radius=25" />
   </a>
   <a href="https://powerbi.microsoft.com/">
-    <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&color=gradient&logoWidth=25&edge-radius=25" />
+    <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&color=gradient&logoWidth=35&edge-radius=25" />
   </a>
   <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=gradient&logoWidth=25&edge-radius=25" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=gradient&logoWidth=35&edge-radius=25" />
   </a>
 </p>
-
-
 ---
 
 ## 💡 Community Leadership
