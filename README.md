@@ -9,9 +9,9 @@
 
 ## 🌟 About Me
 
-I'm **Asiya Arif**, a final-year B.Tech student specializing in **Artificial Intelligence and Data Science** at Dr. A.P.J. Abdul Kalam Technical University. My curiosity drives me to explore how AI and data can be harnessed to build smart, efficient, and ethical solutions for real-world challenges.
+I'm **Asiya Arif**, a final-year B.Tech student specializing in **Artificial Intelligence and Data Science**. My curiosity drives me to explore how AI and data can be harnessed to build smart, efficient, and ethical solutions for real-world challenges.
 
-I love working on projects that involve **machine learning**, **data analysis**, and **visualization** — translating raw data into impactful insights. I’m a strong believer in the power of communities and open-source, and I actively engage in initiatives that foster learning and innovation.
+I love working on projects that involve **machine learning**, **data analysis**, and **visualization**, translating raw data into impactful insights. I’m a strong believer in the power of communities and open-source, and I actively engage in initiatives that foster learning and innovation.
 
 ## 🌱 Currently Exploring
 
@@ -66,7 +66,7 @@ I love working on projects that involve **machine learning**, **data analysis**,
 ## 📫 Let’s Connect!
 
 I'm always excited to collaborate, learn, and grow.  
-Feel free to reach out for project ideas, speaking opportunities, or just a friendly tech chat!
+Feel free to reach out for project ideas, speaking opportunities, or a friendly tech chat!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/asiya-arif-56058b263/">
@@ -79,6 +79,7 @@ Feel free to reach out for project ideas, speaking opportunities, or just a frie
     <img src="https://img.shields.io/badge/Email-Say%20Hi!-E91E63?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-⭐ *Thanks for visiting my profile! Don’t forget to check out my pinned repositories for cool projects.*  
+
+⭐ **Thanks for visiting my profile! Don’t forget to check out my pinned repositories for cool projects.** 
 
 
