@@ -9,21 +9,10 @@
 
 ## 🌟 About Me
 
-- 👩‍💻 I'm Asiya Arif, a B.Tech student in **AI & Data Science** 
-- 🤖 Passionate about solving real-world problems using **Machine Learning**, **Data Analysis**, and **AI**
-- 🧰 Skills:
-  - 📊 Python, SQL, Pandas, NumPy, Matplotlib, Seaborn
-  - ☁️ Git/GitHub, Power BI, Jupyter, Colab, Azure (Basics), GCP (Basics)
-- 📜 Enjoy diving into AI and data science courses certified in areas like **Azure AI Fundamentals (AI-900)**, and **Python for Data Science**
-- 🌐 Community Roles:
-  - ☁️ **CNCF New Delhi Organizer** — hosting cloud-native and open-source events
-  - 🚀 **Founder of SoarX IIMT** — building one of the largest student tech communities on campus
+I'm a B.Tech student specializing in AI & Data Science. Passionate about solving real-world problems with Machine Learning and Data Analysis, I have hands-on experience with Python, SQL, Pandas, NumPy, and Power BI. I also work with cloud platforms like Azure and GCP and tools like Git/GitHub, Jupyter, and Colab.
 
-<p align="center">
-  <a href="mailto:itsasiyaarif@gmail.com">
-    <img src="https://img.shields.io/badge/📬%20Reach%20me%20at%20-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&color=gradient&logoWidth=15" />
-  </a>
-</p>
+Certified in Azure AI Fundamentals (AI-900) and Python for Data Science, I thrive on expanding my skills. As the CNCF New Delhi Organizer and Founder of SoarX IIMT, I’m deeply involved in fostering tech communities and hosting events to empower others.
+
 
 ---
 
