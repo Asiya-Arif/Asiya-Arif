@@ -2,18 +2,19 @@
 <h3 align="center">👩🏼‍💻 Engineering Student | 📊 Data Science Explorer | ☁️ CNCF New Delhi Organizer | 🦅 Founder of SoarX IIMT</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF61D6&center=true&vCenter=true&width=600&lines=🌟+Curious+mind+with+a+love+for+data;🧠+Transforming+ideas+into+intelligent+systems;💬+Let’s+talk+data%2C+cloud%2C+AI%2C+and+communities;🎯+Learning+every+day+to+lead+the+way!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=750&color=#D8BFD8&center=true&vCenter=true&width=600&lines=🌟+Curious+mind+with+a+love+for+data;🧠+Transforming+ideas+into+intelligent+systems;💬+Let’s+talk+data%2C+cloud%2C+AI%2C+and+communities;🎯+Learning+every+day+to+lead+the+way!" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-I'm a B.Tech student specializing in AI & Data Science. Passionate about solving real-world problems with Machine Learning and Data Analysis, I have hands-on experience with Python, SQL, Pandas, NumPy, and Power BI. I also work with cloud platforms like Azure and GCP and tools like Git/GitHub, Jupyter, and Colab.
 
-Certified in Azure AI Fundamentals (AI-900) and Python for Data Science, I thrive on expanding my skills. As the CNCF New Delhi Organizer and Founder of SoarX IIMT, I’m deeply involved in fostering tech communities and hosting events to empower others.
+I'm **Asiya Arif**, a passionate B.Tech student specializing in **Artificial Intelligence & Data Science**. I love exploring how data and machine learning can solve real-world problems and create smarter solutions. Whether it's analyzing complex datasets or building AI models, I enjoy every step of the process
 
+## 📫 Let's Connect!
 
+I'm always open to collaboration, ideas, and learning opportunities. Feel free to check out my projects, contribute, or just say hi!
 ---
 
 ## 👩‍🔬 My Data Science Toolkit
@@ -27,8 +28,9 @@ Certified in Azure AI Fundamentals (AI-900) and Python for Data Science, I thriv
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=seaborn&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  
 </p>
 ---
 
