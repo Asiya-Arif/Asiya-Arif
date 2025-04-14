@@ -64,10 +64,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/company/soarx-iimt/">
-    <img src="https://img.shields.io/badge/SoarX%20IIMT-700%2B%20Followers-orange?style=for-the-badge&logo=linkedin&logoColor=white&color=gradient&logoWidth=15" alt="SoarX LinkedIn"/>
+    <img src="https://img.shields.io/badge/SoarX%20IIMT-700%2B%20Followers-orange?style=for-the-badge&logo=linkedin&logoColor=white" alt="SoarX LinkedIn"/>
+  </a>
   </a>
   <a href="https://www.linkedin.com/company/cncgnd/">
-    <img src="https://img.shields.io/badge/CNCF%20New%20Delhi-5K%2B%20Followers-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=gradient&logoWidth=15" alt="CNCF ND LinkedIn"/>
+    <img src="https://img.shields.io/badge/CNCF%20New%20Delhi-5K%2B%20Followers-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="CNCF ND LinkedIn"/>
   </a>
 </p>
 
