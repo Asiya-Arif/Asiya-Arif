@@ -2,7 +2,7 @@
 <h3 align="center">👩🏼‍💻 Engineering Student | 📊 Data Science Explorer | ☁️ CNCF New Delhi Organizer | 🦅 Founder of SoarX IIMT</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=750&color=#D8BFD8&center=true&vCenter=true&width=600&lines=🌟+Curious+mind+with+a+love+for+data;🧠+Transforming+ideas+into+intelligent+systems;💬+Let’s+talk+data%2C+cloud%2C+AI%2C+and+communities;🎯+Learning+every+day+to+lead+the+way!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=#D8BFD8&center=true&vCenter=true&width=600&lines=🌟+Curious+mind+with+a+love+for+data;🧠+Transforming+ideas+into+intelligent+systems;💬+Let’s+talk+data%2C+cloud%2C+AI%2C+and+communities;🎯+Learning+every+day+to+lead+the+way!" />
 </p>
 
 ---
@@ -12,9 +12,10 @@
 
 I'm **Asiya Arif**, a passionate B.Tech student specializing in **Artificial Intelligence & Data Science**. I love exploring how data and machine learning can solve real-world problems and create smarter solutions. Whether it's analyzing complex datasets or building AI models, I enjoy every step of the process
 
-## 📫 Let's Connect!
+## 📫 Let's connect!
 
 I'm always open to collaboration, ideas, and learning opportunities. Feel free to check out my projects, contribute, or just say hi!
+
 ---
 
 ## 👩‍🔬 My Data Science Toolkit
