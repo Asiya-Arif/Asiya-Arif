@@ -2,22 +2,41 @@
 <h3 align="center">🚀 Engineering Student | Data Science & AI Enthusiast | CNCF New Delhi Organizer | Founder of SoarX IIMT</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Empowering+through+tech+%F0%9F%9A%80;Building+with+AI+%F0%9F%96%A5%EF%B8%8F;Leading+communities+%F0%9F%92%AA;Always+learning+%F0%9F%93%9A" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Empowering+through+tech+%F0%9F%9A%80;Data+Science+for+impact+%F0%9F%96%A5%EF%B8%8F;Leading+communities+%F0%9F%92%AA;Always+learning+%F0%9F%93%9A" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🧠 About Me
 
-- 🎓 Engineering student specializing in **Data Science & Artificial Intelligence**
-- 🌐 Organizer at **CNCF New Delhi**
-- 🚀 Founder & Lead at **[SoarX IIMT](https://www.linkedin.com/company/soarxiimt/)** 
-- 💬 I love talking about **cloud, AI/ML, open source, and developer communities**
+- 🎓 I'm an engineering student **specializing in Data Science & Artificial Intelligence**
+- 🧪 I enjoy working with **data pipelines, machine learning models, and real-world AI applications**
+- 💼 I've built projects using **Python, Jupyter, ML frameworks, and cloud tools like AWS**
+- 💡 I believe in **open collaboration, practical learning, and building for impact**
+- 🌐 I'm an **active community builder** passionate about making tech inclusive & accessible
 - 📬 Reach me at: [asiyaarifwork@gmail.com](mailto:asiyaarifwork@gmail.com)
 
 ---
 
-## 🌟 Community Roles & Reach
+## 👩‍🔬 My Data Science Toolkit
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+---
+
+## 💡 Community Leadership
 
 <p align="center">
   <a href="https://www.linkedin.com/company/soarxiimt/">
@@ -28,17 +47,8 @@
   </a>
 </p>
 
----
-
-## 🔧 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- 🌐 **CNCF New Delhi Organizer** – Building the future of cloud native, one meetup at a time.
+- 🚀 **Founder & Lead of SoarX IIMT** – A student-led innovation and leadership community.
 
 ---
 
@@ -64,3 +74,4 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
