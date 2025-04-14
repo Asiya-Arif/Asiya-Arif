@@ -9,7 +9,7 @@
 
 ## 🌟 About Me
 
-I'm **Asiya Arif**, a final-year B.Tech student specializing in **Artificial Intelligence and Data Science**. My curiosity drives me to explore how AI and data can be harnessed to build smart, efficient, and ethical solutions for real-world challenges.
+I'm **Asiya Arif**, a B.Tech student specializing in **Artificial Intelligence and Data Science**. My curiosity drives me to explore how AI and data can be harnessed to build smart, efficient, and ethical solutions for real-world challenges.
 
 I love working on projects that involve **machine learning**, **data analysis**, and **visualization**, translating raw data into impactful insights. I’m a strong believer in the power of communities and open-source, and I actively engage in initiatives that foster learning and innovation.
 
@@ -38,6 +38,12 @@ I love working on projects that involve **machine learning**, **data analysis**,
   
 </p>
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asiyaarif&show_icons=true&theme=radical" alt="Asiya's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiyaarif&theme=radical" alt="Asiya's GitHub streak"/>
+</p>
 
 ## 💡 Community Leadership
 
@@ -55,13 +61,6 @@ I love working on projects that involve **machine learning**, **data analysis**,
 - 🤝 **Founder & Lead of SoarX IIMT** – A student-led innovation and leadership community.
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asiyaarif&show_icons=true&theme=radical" alt="Asiya's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiyaarif&theme=radical" alt="Asiya's GitHub streak"/>
-</p>
 
 ## 📫 Let’s Connect!
 
