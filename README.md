@@ -1,5 +1,5 @@
 <h1 align="center"> Hey there, I'm Asiya Arif 👋</h1>
-<h3 align="center">👩🏼‍💻 Engineering Student | 📊 Data Science Explorer | ☁️ CNCF New Delhi Organizer | 🦅 Founder of SoarX IIMT</h3>
+<h3 align="center"> 📊 Data Science Explorer | ☁️ CNCF New Delhi Organizer | 🦅 Founder of SoarX IIMT</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E30B5C8&center=true&vCenter=true&width=600&lines=🌟+Curious+mind+with+a+love+for+data;🧠+Transforming+ideas+into+intelligent+systems;💬+Let’s+talk+data%2C+cloud%2C+AI%2C+and+communities;🎯+Learning+every+day+to+lead+the+way!" />
