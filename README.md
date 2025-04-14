@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E30B5C8&center=true&vCenter=true&width=600&lines=🌟+Curious+mind+with+a+love+for+data;🧠+Transforming+ideas+into+intelligent+systems;💬+Let’s+talk+data%2C+cloud%2C+AI%2C+and+communities;🎯+Learning+every+day+to+lead+the+way!" />
 </p>
 
----
 
 ## 🌟 About Me
 
@@ -20,7 +19,6 @@ I love working on projects that involve **machine learning**, **data analysis**,
 - Generative AI
 - Cloud Deployments (Azure, GCP)
 
----
 
 ## 👩‍🔬 My Data Science Toolkit
 
@@ -60,7 +58,6 @@ I love working on projects that involve **machine learning**, **data analysis**,
 - 🌐 **CNCF New Delhi Organizer** – Building the future of cloud native, one meetup at a time.
 - 🤝 **Founder & Lead of SoarX IIMT** – A student-led innovation and leadership community.
 
----
 
 ## 📫 Let’s Connect!
 
