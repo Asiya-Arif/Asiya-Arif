@@ -2,7 +2,7 @@
 <h3 align="center">👩🏼‍💻 Engineering Student | 📊 Data Science Explorer | ☁️ CNCF New Delhi Organizer | 🦅 Founder of SoarX IIMT</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF61D6&center=true&vCenter=true&width=600&lines=🌟+Curious+mind+with+a+love+for+data;🧠+Transforming+ideas+into+intelligent+systems;💬+Let’s+talk+cloud%2C+AI%2C+and+communities;🎯+Learning+every+day+to+lead+the+way!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF61D6&center=true&vCenter=true&width=600&lines=🌟+Curious+mind+with+a+love+for+data;🧠+Transforming+ideas+into+intelligent+systems;💬+Let’s+talk+data%2C+cloud%2C+AI%2C+and+communities;🎯+Learning+every+day+to+lead+the+way!" />
 </p>
 
 ---
@@ -89,14 +89,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/asiya-arif-56058b263/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=gradient&logoWidth=15&width=200" />
-  </a>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
   <a href="https://twitter.com/itsasiyaarif">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=gradient&logoWidth=15&width=200" />
-  </a>
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="mailto:itsasiyaarif@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=gradient&logoWidth=15&width=200" />
-  </a>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 
