@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋, I'm Asiya Arif</h1>
-<h3 align="center">🚀 Engineering Student | Data Science & AI Enthusiast | CNCF New Delhi Organizer | Founder of SoarX IIMT</h3>
+<h1 align="center">✨ Hey there, I'm Asiya Arif 👋</h1>
+<h3 align="center">👩‍🎓 Engineering Student | 🤖 Data Science Explorer | ☁️ CNCF New Delhi Organizer | 🚀 Founder of SoarX IIMT</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Empowering+through+tech+%F0%9F%9A%80;Data+Science+for+impact+%F0%9F%96%A5%EF%B8%8F;Leading+communities+%F0%9F%92%AA;Always+learning+%F0%9F%93%9A" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF61D6&center=true&vCenter=true&width=600&lines=🌟+Curious+mind+with+a+love+for+data;🧠+Transforming+ideas+into+intelligent+systems;💬+Let’s+talk+cloud%2C+AI%2C+and+communities;🎯+Learning+every+day+to+lead+the+way!" />
 </p>
 
 ---
