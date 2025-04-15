@@ -8,9 +8,7 @@
 
 ## 🌟 About Me
 
-I'm **Asiya Arif**, a B.Tech student specializing in **Artificial Intelligence and Data Science**. My curiosity drives me to explore how AI and data can be harnessed to build smart, efficient, and ethical solutions for real-world challenges.
-
-I love working on projects that involve **machine learning**, **data analysis**, and **visualization**, translating raw data into impactful insights. I’m a strong believer in the power of communities and open-source, and I actively engage in initiatives that foster learning and innovation.
+<br>🌟 About Me<br>I'm Asiya Arif, a B.Tech student specializing in Artificial Intelligence and Data Science. My curiosity drives me to explore how AI and data can be harnessed to build smart, efficient, and ethical solutions for real-world challenges.<br><br>I love working on projects that involve machine learning, data analysis, and visualization, translating raw data into impactful insights. I’m a strong believer in the power of communities and open-source, and I actively engage in initiatives that foster learning and innovation.<br>
 
 ## 🌱 Currently Exploring
 
@@ -26,22 +24,31 @@ I love working on projects that involve **machine learning**, **data analysis**,
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=seaborn&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
   
 </p>
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asiyaarif&show_icons=true&theme=radical" alt="Asiya's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiyaarif&theme=radical" alt="Asiya's GitHub streak"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Asiya-Arif&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Asiya-Arif&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asiya-Arif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 💡 Community Leadership
 
@@ -63,7 +70,7 @@ I love working on projects that involve **machine learning**, **data analysis**,
 
 I'm always excited to collaborate, learn, and grow.  
 Feel free to reach out for project ideas, speaking opportunities, or a friendly tech chat!
-
+**
 <p align="center">
   <a href="https://www.linkedin.com/in/asiya-arif-56058b263/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -74,7 +81,7 @@ Feel free to reach out for project ideas, speaking opportunities, or a friendly 
   <a href="mailto:itsasiyaarif@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hi!-E91E63?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+</p>**
 
 ⭐ **Thanks for visiting my profile! Don’t forget to check out my pinned repositories for cool projects.** 
 
